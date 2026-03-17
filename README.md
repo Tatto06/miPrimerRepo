@@ -2,5 +2,6 @@
 
 Mi primer repositorio xd
 
-Mi prrimerra contribucion local parra GitHub
+Mi primera contribucion local parra GitHub
 
+Un commit mas desde GitHub
